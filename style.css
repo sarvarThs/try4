@@ -1,0 +1,903 @@
+.log-name{
+position: absolute;
+width: 120px;
+height: 34px;
+left: 120px;
+top: 42px;
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 700;
+font-size: 27.1472px;
+line-height: 33px;
+}
+.w-do{
+position: absolute;
+width: 97px;
+height: 20px;
+left: 780px;
+top: 49px;
+font-family: 'Averta Demo PE Cutted Demo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+}
+.serv{
+position: absolute;
+width: 55px;
+height: 20px;
+left: 937px;
+top: 49px;
+font-family: 'Averta Demo PE Cutted Demo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+}
+#h1{
+position: absolute;
+width: 462px;
+height: 49px;
+left: 120px;
+top: 239px;
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 49px;
+}
+.prj{
+position: absolute;
+width: 53px;
+height: 20px;
+left: 1052px;
+top: 49px;
+font-family: 'Averta Demo PE Cutted Demo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+}
+.blog{
+position: absolute;
+width: 34px;
+height: 20px;
+left: 1165px;
+top: 49px;
+font-family: 'Averta Demo PE Cutted Demo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+
+}
+.con{
+position: absolute;
+width: 61px;
+height: 20px;
+left: 1259px;
+top: 49px;
+}
+.about-p1{
+position: absolute;
+width: 471px;
+height: 78px;
+left: 120px;
+top: 328px;
+font-family: 'Averta Demo PE Cutted Demo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 160%;
+color: #565656;
+}
+.but-cont{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 40px;
+    gap: 10px;
+    
+    position: absolute;
+    width: 215px;
+    height: 65px;
+    left: 121px;
+    top: 439px;
+    
+    background: #2639ED;
+    border-radius: 60px;
+    color: #ffffff;
+    font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+}
+#circle1{
+    position: absolute;
+    width: 129px;
+    height: 129px;
+    left: 623px;
+    top: 116px;
+    
+    background: #DAE9FF;
+    border-radius: 100%;
+
+}
+#img1{
+    position: absolute;
+width: 754px;
+height: 512px;
+left: 686px;
+top: 116px;
+}
+#circle2{
+    position: absolute;
+width: 178px;
+height: 178px;
+left: 1142px;
+top: 546px;
+
+background: #FFF5DB;
+border-radius: 0px 0px 100px 0px;
+z-index: -1;
+}
+#dots1{
+    position: absolute;
+width: 404px;
+height: 154px;
+left: 68px;
+top: 469px;
+ z-index: -1;
+}
+#clients{
+    position: absolute;
+width: 189px;
+height: 49px;
+left: 120px;
+top: 764px;
+
+font-family: 'Averta Demo PE Cutted Demo';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 49px;
+
+}
+#clientsund{
+    position: absolute;
+width: 336px;
+height: 58px;
+left: 120px;
+top: 830px;
+
+font-family: 'Averta Demo PE Cutted Demo';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 160%;
+ 
+
+
+color: #757575;
+
+}
+#googlegroupe{
+    position: absolute;
+    top: 820px;
+    left: 516px;
+}
+#a1{
+    position:absolute ;
+    top:818px;
+    left: 726px;
+}
+#circle3{
+position: absolute;
+width: 178px;
+height: 178px;
+left: 82px;
+top: 1282px;
+
+background: #FFF5DB;
+border-radius: 0px 0px 100px  0px;
+transform: rotate(-180deg);
+}
+#helptxt1{
+position: absolute;
+width: 358px;
+height: 98px;
+left: 121px;
+top: 1342px;
+z-index: 2;
+}
+#about-p2{
+    position: absolute;
+width: 396px;
+height: 52px;
+left: 120px;
+top: 1450px;
+
+font-family: 'Averta Demo PE Cutted Demo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 160%;
+z-index: 2;
+
+color: #565656;
+
+}
+#circle4{
+position: absolute;
+width: 1047px;
+height: 619px;
+left: 393px;
+top: 1122px;
+
+background: #F4F9FF;
+border-radius: 150px 0px 0px 0px;
+}
+.box1{
+    
+position: absolute;
+width: 308px;
+height: 379px;
+left: 607px;
+top: 1061px;
+
+background: #FFFFFF;
+border: 1px solid #F2F2F2;
+border-radius: 40px;
+}
+#uber{
+    position: absolute;
+    top: 830px;
+    left: 952px;
+}
+#amazon{
+    position: absolute;
+    top: 835px;
+    left: 1178px;
+}
+#boxtopw1{
+position: absolute;
+width: 167px;
+height: 60px;
+left: 677px;
+top: 1252px;
+
+font-family: 'Averta Demo PE Cutted Demo';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+text-align: center;
+}
+#boxundw1{
+position: absolute;
+width: 245px;
+height: 44px;
+left: 638px;
+top: 1339px;
+
+font-family: 'Averta Demo PE Cutted Demo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 140%;
+text-align: center;
+color: #757575;
+}
+#boxard1{
+position: absolute;
+width: 121px;
+height: 121px;
+left: 701px;
+top: 1100px;
+
+background: #F1F7FF;
+border-radius: 20px;
+}
+#box-search{
+position: absolute;
+width: 74px;
+height: 74px;
+left: 725px;
+top: 1124px;
+z-index: 5;
+}
+#box2{
+    
+    position: absolute;
+    width: 308px;
+    height: 379px;
+    left: 949px;
+    top: 982px;
+    box-shadow: 10px 5px 5px #757575;
+    background: #FFFFFF;
+    border: 1px solid #F2F2F2;
+    border-radius: 40px;
+    }
+#boxtopw2{
+    position: absolute;
+    width: 167px;
+    height: 60px;
+    left: 1003px;
+    top: 1173px;
+        
+    font-family: 'Averta Demo PE Cutted Demo';   font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+ }
+ #boxundw2{
+    position: absolute;
+    width: 245px;
+    height: 44px;
+    left: 980px;
+    top: 1260px;
+    
+    font-family: 'Averta Demo PE Cutted Demo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    text-align: center;
+    color: #757575;}
+#boxard2{
+position: absolute;
+width: 121px;
+height: 121px;
+left: 1043px;
+top: 1021px;
+
+background: #FFF7E3;
+border-radius: 20px;
+}
+#walyet{
+position: absolute;
+width: 74px;
+height: 74px;
+left: 1067px;
+top: 1045px;
+
+}
+#box3{
+    
+    position: absolute;
+    width: 308px;
+    height: 379px;
+    left: 607px;
+    top: 1470px;
+    box-shadow: 10px 5px 5px #757575;
+    background: #FFFFFF;
+    border: 1px solid #F2F2F2;
+    border-radius: 40px;
+    }
+#boxtopw3{
+    position: absolute;
+    width: 167px;
+    height: 60px;
+    left: 641px;
+    top: 1668px;
+        
+    font-family: 'Averta Demo PE Cutted Demo';   font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+ }
+ #boxundw3{
+    position: absolute;
+    width: 245px;
+    height: 44px;
+    left: 638px;
+    top: 1748px;
+    
+    font-family: 'Averta Demo PE Cutted Demo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    text-align: center;
+    color: #757575;}
+#boxard3{
+    position: absolute;
+    width: 121px;
+    height: 121px;
+    left: 701px;
+    top: 1509px;
+    
+    background: #FFF2F8;
+    border-radius: 20px;
+}
+#code{
+position: absolute;
+width: 74px;
+height: 74px;
+left: 725px;
+top: 1533px;
+
+}
+#box4{
+    
+    position: absolute;
+    width: 308px;
+    height: 379px;
+    left: 949px;
+    top: 1391px;
+    box-shadow: 10px 5px 5px #757575;
+    background: #FFFFFF;
+    border: 1px solid #F2F2F2;
+    border-radius: 40px;
+    }
+#boxtopw4{
+    position: absolute;
+    width: 167px;
+    height: 60px;
+    left: 987px;
+    top: 1582px;
+        
+    font-family: 'Averta Demo PE Cutted Demo';   font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+ }
+ #boxundw4{
+    position: absolute;
+    width: 245px;
+    height: 44px;
+    left: 980px;
+    top: 1669px;
+    
+    font-family: 'Averta Demo PE Cutted Demo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    text-align: center;
+    color: #757575;}
+#boxard4{
+position: absolute;
+width: 121px;
+height: 121px;
+left: 1043px;
+top: 1430px;
+
+background: #DEFFEE;
+border-radius: 20px;
+}
+#chart{
+    position: absolute;
+    width: 74px;
+    height: 74px;
+    left: 1067px;
+    top: 1454px;
+     
+}
+#dots2{
+position: absolute;
+width: 405px;
+height: 154px;
+left: 125px;
+top: 1626px;
+z-index: -2;
+}
+#circle5{
+position: absolute;
+width: 178px;
+height: 178px;
+left: 750px;
+top: 2053px;
+z-index: -2;
+background: #EFF1FF;
+border-radius: 0px 0px 100px 0px;
+}
+#h1-2{
+    position: absolute;
+    width: 468px;
+    height: 98px;
+    left: 789px;
+    top: 2077px;
+    
+    font-family: 'Averta Demo PE Cutted Demo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 49px;   
+}
+#p3{
+position: absolute;
+width: 532px;
+height: 104px;
+left: 788px;
+top: 2205px;
+font-family: 'Averta Demo PE Cutted Demo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 160%;
+color: #565656;
+
+}
+#img-vid{
+position: absolute;
+width: 550px;
+height: 372px;
+left: 120px;
+top: 1995px;
+
+}
+#circle6{
+position: absolute;
+width: 129px;
+height: 129px;
+left: 570px;
+top: 2200px;
+border-radius: 50%;
+background: #FFF5DB;
+}
+#h1-3{
+    position: absolute;
+    width: 485px;
+    height: 49px;
+    left: 477px;
+    top: 2548px;
+    
+     
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 49px;
+    text-align: center;
+ }
+ #p-3{
+    position: absolute;
+width: 588px;
+height: 29px;
+left: 426px;
+top: 2614px;
+
+font-family: 'Averta Demo PE Cutted Demo';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 160%;
+
+text-align: center;
+
+color: #757575;
+
+ }
+#dots-4{
+position: absolute;
+width: 196px;
+height: 154px;
+left: 347px;
+top: 2714px;
+
+}
+#img7{
+position: absolute;
+width: 389px;
+height: 389px;
+left: 117px;
+top: 2756px;
+}
+#h2-3{
+    position: absolute;
+width: 412px;
+height: 78px;
+left: 573px;
+top: 2891px;
+
+font-family: 'Averta Demo PE Cutted Demo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 160%;
+
+
+
+color: #565656;
+}
+#h2-2{
+position: absolute;
+width: 153px;
+height: 30px;
+left: 573px;
+top: 2840px;
+font-family: 'Averta Demo PE Cutted Demo';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+text-align: center;
+}
+#circle7{
+    position: absolute;
+    width: 184px;
+    height: 184px;
+    left: 1044px;
+    top: 2863px;
+    border-radius:50%;
+    background: #FFF5DB;
+    box-shadow: 10px 5px 5px #757575;
+}
+#img9{
+position: absolute;
+width: 348px;
+height: 355px;
+left: 1023px;
+top: 2756px;
+
+}
+#circle8{
+position: absolute;
+width: 120px;
+height: 120px;
+left: 107px;
+top: 3013px;
+border-radius: 50%;
+border: 8.8px solid #FF007A;
+z-index: -1;
+}
+header{
+color: #757575;
+position: static;
+}
+#backfon{
+position: absolute;
+width: 1197px;
+height: 292px;
+left: 120px;
+top: 3293px;
+z-index: -2;
+background: #F4F9FF;
+border-radius: 75px;
+}
+#circle9{
+position: absolute;
+width: 178px;
+height: 178px;
+left: 82px;
+top: 3446px;
+z-index: -3;
+background: #FFF5DB;
+border-radius: 0px 0px 100px 0px;
+transform: rotate(90deg);
+box-shadow: 10px 5px 5px #565656;
+}
+#h1-4{
+position: absolute;
+width: 386px;
+height: 49px;
+left: 212px;
+top: 3391px;
+
+font-family: 'Averta Demo PE Cutted Demo';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 49px;
+}
+#p-4{
+position: absolute;
+width: 588px;
+height: 29px;
+left: 212px;
+top: 3457px;        
+font-family: 'Averta Demo PE Cutted Demo';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 160%;
+color: #757575;
+}
+#inp{
+border-radius: 20px;
+position: absolute;
+width: 479px;
+height: 80px;
+left: 740px;
+top: 3399px;
+background: #FFFFFF;
+border: 1px solid #F1F1F1;
+}
+#inp-but{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 20px 40px;
+gap: 10px;
+position: absolute;
+width: 188px;
+height: 60px;
+left: 1021px;
+top: 3409px;
+background: #2639ED;
+border-radius: 60px;
+color: #ffffff;
+}
+#backgr2{
+position: absolute;
+width: 543px;
+height: 292px;
+left: 774px;
+top: 3293px;
+border-radius: 60px ;
+background: #2639ED;
+z-index: -1;
+}
+.w-do:hover{
+    color:#2639ED;
+    text-decoration: underline;
+}
+.con:hover{
+    color:#2639ED;
+    text-decoration: underline;
+}
+.blog:hover{
+    color:#2639ED;
+    text-decoration: underline;
+}
+.prj:hover{
+    color:#2639ED;
+    text-decoration: underline;
+}
+.serv:hover{
+    color:#2639ED;
+    text-decoration: underline;
+}
+#pund1{
+    position: absolute;
+    width: 270px;
+    height: 88px;
+    left: 120px;
+    top: 3847px;
+    
+    font-family: 'Averta Demo PE Cutted Demo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 160%;
+   color: #565656; 
+}
+#pon1{
+    position: absolute;
+    width: 106px;
+    height: 30px;
+    left: 120px;
+    top: 3791px;   
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px; 
+}
+#pund2{
+position: absolute;
+width: 150px;
+height: 112px;
+left: 581px;
+top: 3843px;
+
+font-family: 'Averta Demo PE Cutted Demo';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 200%;
+}
+#pon2{
+position: absolute;
+width: 119px;
+height: 25px;
+left: 581px;
+top: 3794px;
+
+font-family: 'Averta Demo PE Cutted Demo';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+}
+#pon3{
+position: absolute;
+width: 90px;
+height: 25px;
+left: 851px;
+top: 3794px;
+
+font-family: 'Averta Demo PE Cutted Demo';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+}
+#inp-but:hover{
+background-color: #1529db;
+box-shadow: inset 0px 5px rgba(0, 0, 0, .5);
+}
+.but-cont:hover{
+    background-color: #1529db;
+    box-shadow: inset 0px 5px rgba(0, 0, 0, .5);
+}
+.box1{
+    box-shadow: 10px 5px 5px #757575;
+}
+#pund3{
+position: absolute;
+width: 107px;
+height: 84px;
+left: 851px;
+top: 3843px;
+
+font-family: 'Averta Demo PE Cutted Demo';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 200%;
+}
+#pon4{
+position: absolute;
+width: 74px;
+height: 25px;
+left: 1064px;
+top: 3794px;
+
+font-family: 'Averta Demo PE Cutted Demo';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+}
+#pund4{
+position: absolute;
+width: 55px;
+height: 84px;
+left: 1064px;
+top: 3843px;
+
+font-family: 'Averta Demo PE Cutted Demo';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 200%;
+}
+#pon5{
+position: absolute;
+width: 75px;
+height: 25px;
+left: 1244px;
+top: 3794px;
+
+font-family: 'Averta Demo PE Cutted Demo';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+}
+#pund5{
+position: absolute;
+width: 71px;
+height: 56px;
+left: 1244px;
+top: 3843px;
+
+font-family: 'Averta Demo PE Cutted Demo';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 200%;
+}
+#linia{
+position: absolute;
+width: 1200px;
+height: 0px;
+left: 120px;
+top: 3731px;
+
+border: 1px solid #E4E4E4;
+}
